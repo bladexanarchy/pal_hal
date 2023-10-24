@@ -1,2 +1,2 @@
 # pal_hal
-palvelinten hallinta kurssi
+palvelinten hallinta kurssin tehtävien palautus
