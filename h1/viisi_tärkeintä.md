@@ -38,7 +38,7 @@ Huomaamme että se on alhaalla ja käsketään Saltti käynnistää se uudelleen
 
 Luodaan käyttäjä nimeltä tero ja annetaan sille kenkää.  
 
-![img](./tero_kick.png)
+![img](./user_kick.png)
 
 ## cmd.run
 
