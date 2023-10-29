@@ -24,11 +24,15 @@ Tässä huomataan että luodaan tekstitiedosto jos se ei ole olemassa meidän m�
 
 ## service.running/dead
 
+![img](./apa_true.png)
+
 Näemme että Apache2-palvelin on toiminnassa ja kokeillaan sammuttaa se käsin.  
 
-!
+![img](apa_stopped.png)
 
 Huomaamme että se on alhaalla ja käsketään Saltti käynnistää se uudelleen.  
+
+![img](./apa_restart.png)
 
 ## user.present/absent
 
