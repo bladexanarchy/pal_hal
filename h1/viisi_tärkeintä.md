@@ -16,11 +16,19 @@ Voimme toki tehdä myös vastakkaisen käskyn ja poistaa Micro koneelta komennol
 
 Huomaamme että tässä Saltti on poistanut Micron koneeltamme juuri niinkuin sitä on käsketty.
 
-## file.managed/removed
+## file.managed/absent
 
-![img]()
+![img](./file_managed.png)
+
+Tässä huomataan että luodaan tekstitiedosto jos se ei ole olemassa meidän määräämässä kansiossa. Vastaavasti file.absent poistaa tiedoston.
 
 ## service.running/dead
+
+Näemme että Apache2-palvelin on toiminnassa ja kokeillaan sammuttaa se käsin.  
+
+!
+
+Huomaamme että se on alhaalla ja käsketään Saltti käynnistää se uudelleen.  
 
 ## user.present/absent
 
