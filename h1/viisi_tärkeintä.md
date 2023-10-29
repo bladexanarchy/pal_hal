@@ -11,11 +11,11 @@ Voimme toki tehdä myös vastakkaisen käskyn ja poistaa Micro koneelta komennol
 
 ```sudo salt-call --local -l info state.single pkg.removed micro``` 
 
-## file.managed
+## file.managed/removed
 
-## service.running
+## service.running/dead
 
-## user.present
+## user.present/absent
 
 ## cmd.run
 
