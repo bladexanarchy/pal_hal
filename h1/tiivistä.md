@@ -21,3 +21,7 @@
 
 ## cmd.run
     -tarkistaa/varmistaa ja muuttaa kaikkien muiden palveluiden tomintaa/olemassaoloa koneilta (roskaa???)
+
+# References
+https://terokarvinen.com/2021/salt-run-command-locally/
+https://terokarvinen.com/2023/configuration-management-2023-autumn/
