@@ -44,7 +44,7 @@ Luodaan käyttäjä nimeltä tero ja annetaan sille kenkää.
 
 ![img](./echo_hell.png)  
 
-
+Olkoon, antaa koneen echottaa Hello Worldia. Tätä voi toistaa ikuisesti ja aina on changed = 1, kyseessä ei ole idempotenssi tila. (Viisikko, JussiMol)
 
 # Lähteet
 Infra as Code 2023, Tero Karvinen
@@ -53,5 +53,5 @@ https://terokarvinen.com/2023/configuration-management-2023-autumn/
 Run Salt Command Locally, Tero Karvinen
 https://terokarvinen.com/2021/salt-run-command-locally/
 
-Palvelinten-Hallinta H1, JussiMol
+Viisikko H1, JussiMol
 https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h1/Viisikko.md
