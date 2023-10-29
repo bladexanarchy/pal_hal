@@ -4,7 +4,7 @@ Tehtävässä käytetään ![Tero Karvisen antamia komentoja ja oppimateriaalia]
 
 ## pkg.installed
 
-![img](./micro_inst.png)
+![img](./micro_inst.png)  
 
 Tässä annetaan käsky Micro tekstieditorin lataamiseen.  
 Voimme toki tehdä myös vastakkaisen käskyn ja poistaa Micro koneelta komennolla:  
@@ -12,31 +12,37 @@ Voimme toki tehdä myös vastakkaisen käskyn ja poistaa Micro koneelta komennol
 
 ```sudo salt-call --local -l info state.single pkg.removed micro``` 
 
-![img](./micro_rem.png)
+![img](./micro_rem.png)  
 
 Huomaamme että tässä Saltti on poistanut Micron koneeltamme juuri niinkuin sitä on käsketty.
 
 ## file.managed/absent
 
-![img](./file_managed.png)
+![img](./file_managed.png)  
 
 Tässä huomataan että luodaan tekstitiedosto jos se ei ole olemassa meidän määräämässä kansiossa. Vastaavasti file.absent poistaa tiedoston.
 
 ## service.running/dead
 
-![img](./apa_true.png)
+![img](./apa_true.png)  
 
 Näemme että Apache2-palvelin on toiminnassa ja kokeillaan sammuttaa se käsin.  
 
-![img](apa_stopped.png)
+![img](./apa_stopped.png)  
 
 Huomaamme että se on alhaalla ja käsketään Saltti käynnistää se uudelleen.  
 
-![img](./apa_restart.png)
+![img](./apa_restart.png)  
 
 ## user.present/absent
 
+Luodaan käyttäjä nimeltä tero ja annetaan sille kenkää.  
+
+![img](./tero_kick.png)
+
 ## cmd.run
+
+![img](./echo_hell.png)  
 
 
 
