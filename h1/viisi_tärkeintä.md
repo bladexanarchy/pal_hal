@@ -7,11 +7,18 @@ Tehtävässä käytetään ![Tero Karvisen antamia komentoja ja oppimateriaalia]
 ![img](./micro_inst.png)
 
 Tässä annetaan käsky Micro tekstieditorin lataamiseen.  
-Voimme toki tehdä myös vastakkaisen käskyn ja poistaa Micro koneelta komennolla:
+Voimme toki tehdä myös vastakkaisen käskyn ja poistaa Micro koneelta komennolla:  
+(Näytän tämän tässä tehtävässä kerran koska sinällään efekti on täysin sama mutta, vastakkainen)
 
 ```sudo salt-call --local -l info state.single pkg.removed micro``` 
 
+![img](./micro_rem.png)
+
+Huomaamme että tässä Saltti on poistanut Micron koneeltamme juuri niinkuin sitä on käsketty.
+
 ## file.managed/removed
+
+
 
 ## service.running/dead
 
