@@ -18,7 +18,7 @@ Huomaamme että tässä Saltti on poistanut Micron koneeltamme juuri niinkuin si
 
 ## file.managed/removed
 
-
+![img]()
 
 ## service.running/dead
 
