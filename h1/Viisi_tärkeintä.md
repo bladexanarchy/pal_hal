@@ -10,7 +10,7 @@ Tässä annetaan käsky Micro tekstieditorin lataamiseen.
 Voimme toki tehdä myös vastakkaisen käskyn ja poistaa Micro koneelta komennolla:  
 (Näytän tämän tässä tehtävässä kerran koska sinällään efekti on täysin sama mutta, vastakkainen)
 
-```sudo salt-call --local -l info state.single pkg.removed micro``` 
+```$ sudo salt-call --local -l info state.single pkg.removed micro``` 
 
 ![img](./micro_rem.png)  
 
