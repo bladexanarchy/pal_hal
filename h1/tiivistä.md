@@ -17,7 +17,7 @@ tarkistaa/varmistaa ja muuttaa palvelun toimintamuotoa koneilla
 
 ## user.present
 tarkistaa/varmistaa ja muuttaa käyttäjän toimintaa koneilta
- -yleensä eristetään eri palveluille (kuten web-palvelin)
+  yleensä eristetään eri palveluille (kuten web-palvelin)
 
 ## cmd.run
 tarkistaa/varmistaa ja muuttaa kaikkien muiden palveluiden tomintaa/olemassaoloa koneilta (roskaa???)
