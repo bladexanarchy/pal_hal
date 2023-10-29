@@ -6,18 +6,18 @@
 
 # SALT
 
-  - pkg.installed
+##  - pkg.installed
     -tarkistaa/varmistaa ja muuttaa palvelun olemassaolo/asetuksen koneilta
 
-  - file.managed
+##  - file.managed
     -tarkistaa/varmistaa ja muuttaa tiedoston olemassaoloa koneilta
 
-  - services.running
+##  - services.running
     -tarkistaa/varmistaa ja muuttaa palvelun toimintamuotoa koneilla
 
-  - user.present
+##  - user.present
     -tarkistaa/varmistaa ja muuttaa käyttäjän toimintaa koneilta
     - yleensä eristetään eri palveluille (kuten web-palvelin)
 
-  - cmd.run
+##  - cmd.run
     -tarkistaa/varmistaa ja muuttaa kaikkien muiden palveluiden tomintaa/olemassaoloa koneilta (roskaa???)
