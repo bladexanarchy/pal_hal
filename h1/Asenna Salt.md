@@ -2,7 +2,7 @@
 
 ![img](./salt_asennus.png)  
 
-Kerran olin asentanut Debian 12, jouduin mennä vaikeamman kautta ja asentaa Saltti näin. ![Tero Karvinen, Infra as Code 2023](https://terokarvinen.com/2023/configuration-management-2023-autumn/)
+Kerran olin asentanut Debian 12, jouduin mennä vaikeamman kautta ja asentaa Saltti näin. (Tero Karvinen,![Infra as Code 2023](https://terokarvinen.com/2023/configuration-management-2023-autumn/))
 
 # Lähteet
 Infra as Code 2023, Tero Karvinen
