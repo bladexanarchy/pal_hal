@@ -1,5 +1,5 @@
-pkg.installed
-file.managed
-service.running
-user.present
-cmd.run
+## pkg.installed
+## file.managed
+## service.running
+## user.present
+## cmd.run
