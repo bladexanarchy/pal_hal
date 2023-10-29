@@ -44,7 +44,7 @@ Luodaan käyttäjä nimeltä tero ja annetaan sille kenkää.
 
 ![img](./echo_hell.png)  
 
-Olkoon, antaa koneen echottaa Hello Worldia. Tätä voi toistaa ikuisesti ja aina on changed = 1, kyseessä ei ole idempotenssi tila. (Viisikko, JussiMol)
+Olkoon, antaa koneen echottaa Hello Worldia. Tätä voi toistaa ikuisesti ja aina on changed = 1, kyseessä ei ole idempotenssi tila.   (Viisikko, JussiMol)
 
 # Lähteet
 Infra as Code 2023, Tero Karvinen
