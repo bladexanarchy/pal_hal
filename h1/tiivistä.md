@@ -1,10 +1,10 @@
-#GITHUB
+# GITHUB
   - luo github
   - luo uusi repo
   - luo uusi sivu repoon
   - julkaise
 
-#SALT
+# SALT
 
   - pkg.installed
     -tarkistaa/varmistaa ja muuttaa palvelun olemassaolo/asetuksen koneilta
