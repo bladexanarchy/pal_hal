@@ -7,20 +7,20 @@
 # SALT
 
 ## pkg.installed
-    -tarkistaa/varmistaa ja muuttaa palvelun olemassaolo/asetuksen koneilta
+    tarkistaa/varmistaa ja muuttaa palvelun olemassaolo/asetuksen koneilta
 
 ## file.managed
-    -tarkistaa/varmistaa ja muuttaa tiedoston olemassaoloa koneilta
+    tarkistaa/varmistaa ja muuttaa tiedoston olemassaoloa koneilta
 
 ## services.running
-    -tarkistaa/varmistaa ja muuttaa palvelun toimintamuotoa koneilla
+    tarkistaa/varmistaa ja muuttaa palvelun toimintamuotoa koneilla
 
 ## user.present
-    -tarkistaa/varmistaa ja muuttaa käyttäjän toimintaa koneilta
-    - yleensä eristetään eri palveluille (kuten web-palvelin)
+    tarkistaa/varmistaa ja muuttaa käyttäjän toimintaa koneilta
+    -yleensä eristetään eri palveluille (kuten web-palvelin)
 
 ## cmd.run
-    -tarkistaa/varmistaa ja muuttaa kaikkien muiden palveluiden tomintaa/olemassaoloa koneilta (roskaa???)
+    tarkistaa/varmistaa ja muuttaa kaikkien muiden palveluiden tomintaa/olemassaoloa koneilta (roskaa???)
 
 # References
 https://terokarvinen.com/2021/salt-run-command-locally/
